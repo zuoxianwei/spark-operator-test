@@ -1,1 +1,1 @@
-gcr.io/spark-operator/spark-operator:3.1.1
+gcr.io/spark-operator/spark-operator:latest
